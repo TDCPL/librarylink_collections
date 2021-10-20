@@ -1,0 +1,27 @@
+{
+  "label": "Washington Wizards Book of the Month – September 2021",
+  "description": "Check out the September 2021 Washington Wizards and DC Public Library Book of the Month picks celebrating Back to School Month for children, K-2, 3-5 and 6-8.",
+  "list": [
+    {
+      "label": "All Are Welcome",
+      "isbns": [
+        "9780525579649",
+        "9780525579663"
+      ]
+    },
+    {
+      "label": "Becoming Muhammad Ali",
+      "isbns": [
+        "9780316498166",
+        "9780316120890"
+      ]
+    },
+    {
+      "label": " When the Stare Are Scattered",
+      "isbns": [
+        "9780525553908",
+        "9780593162590"
+      ]
+    }
+  ]
+}
