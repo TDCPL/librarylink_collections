@@ -1,0 +1,26 @@
+{
+	"label": "Washington Wizards Book of the Month – November 2021",
+	"description": "Check out the November 2021 Washington Wizards and DC Public Library Book of the Month picks celebrating Native American Heritage Month for children, K-2, 3-5 and 6-8.",
+	"list": [{
+			"label": "Birdsong",
+			"isbns": [
+				"9781771644730",
+				"9781771644747"
+			]
+		},
+		{
+			"label": " We Are Still Here!: Native American Truths Everyone Should Know ",
+			"isbns": [
+				"978623541927",
+				"9781632899736"
+			]
+		},
+		{
+			"label": " Everything You Wanted to Know About Indians But Were Afraid to Ask (Young Readers Edition)",
+			"isbns": [
+				"9781646140459"
+
+			]
+		}
+	]
+}
