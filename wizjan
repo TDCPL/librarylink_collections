@@ -1,0 +1,29 @@
+{
+  "label": "Washington Wizards Book of the Month – December 2021",
+  "description": "Check out the December 2021 Washington Wizards and DC Public Library Book of the Month picks celebrating the winter months Month for children, K-2, 3-5 and 6-8.",
+  "list": [
+    {
+      "label": "Winter Dance",
+      "isbns": [
+        "9781328525345"
+        
+      ]
+    },
+    {
+      "label": " Because of Winn Dixie (Newbery Award Winner) ",
+      "isbns": [
+        "9780763607760",
+        "9780763649456"
+      ]
+    },
+    {
+      "label": " Out of My Mind (Newbery Award Winner)",
+      "isbns": [
+        "9781416971702",
+        "9781416980452"
+
+        
+      ]
+    }
+  ]
+}
