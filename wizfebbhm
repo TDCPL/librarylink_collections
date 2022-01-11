@@ -1,0 +1,37 @@
+{
+  "label": "Washington Wizards Book of the Month – February 2022",
+  "description": "Check out the February 2022 Washington Wizards and DC Public Library Book of the Month picks celebrating Black History Month K-2, 3-5 and 6-8.",
+  "list": [
+    {
+      "label": "The ABCs of Black History",
+      "isbns": [
+        "9781523507498"
+        
+      ]
+    },
+    {
+      "label": "Black Boy Joy: 17 Stories Celebrating Black Boyhood ",
+      "isbns": [
+        "9780593379936",
+        "9780593379950"
+      ]
+    },
+    {
+      "label":  "Piecing me Together",
+      "isbns": [
+        "9781681191058",
+        "9781681191065"
+  
+      ]
+    },
+    {
+      "label": "Crossover",
+      "isbns": [
+        "9780544107717",
+        "9781490627571"
+
+        
+      ]
+    }
+  ]
+}
