@@ -4,20 +4,20 @@
   "list": [
     {
       "label": "Shaking Things Up",
-      "isbns": [
-        "9780062699459”,
-       ]
+      "isbn": [
+        "9780062699459”
+      ]
     },
     {
       "label": "Little Melba and Her Big Trombone",
-      "isbns": [
-        "9781600608988",
+      "isbn": [
+        "9781600608988"
       ]
     },
     {
       "label": "Amelia to Zora:Twenty-Six Women Who Changed 
-the World",
-      "isbns": [
+                the World",
+      "isbn": [
         "9781570915222"
       ]
     }
