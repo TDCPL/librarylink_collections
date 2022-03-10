@@ -1,0 +1,25 @@
+{
+  "label": "Washington Wizards Book of the Month - April 2021",
+  "description": "Check out the April 2021 Washington Wizards and DC Public Library Book of the Month picks for children, K-2, 3-5 and 6-8.",
+  "list": [
+    {
+      "label": "Shaking Things Up",
+      "isbns": [
+        "9780062699459”,
+       ]
+    },
+    {
+      "label": "Little Melba and Her Big Trombone",
+      "isbns": [
+        "9781600608988",
+      ]
+    },
+    {
+      "label": "Amelia to Zora:Twenty-Six Women Who Changed 
+the World",
+      "isbns": [
+        "9781570915222"
+      ]
+    }
+  ]
+}
