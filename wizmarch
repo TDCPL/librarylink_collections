@@ -1,0 +1,23 @@
+{
+	"label": "Washington Wizards Book of the Month - March 2022",
+	"description": "Check out the March 2022 Washington Wizards and DC Public Library Book of the Month picks for children, K-2, 3-5 and 6-8 celebrating Women's History Month.",
+	"list": [{
+			"label": "Shaking Things Up",
+			"isbn": [
+				"9780062699459"
+			]
+		},
+		{
+			"label": "Little Melba and Her Big Trombone",
+			"isbn": [
+				"9781600608988"
+			]
+		},
+		{
+			"label": "Amelia to Zora:Twenty-Six Women Who Changed the World ",
+			"isbn": [
+				"9781570915222"
+			]
+		}
+	]
+}
