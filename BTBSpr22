@@ -1,0 +1,65 @@
+{
+  "label": "Spring 2022 Beyond the Book Suggested Books",
+  "description": "Check out these similar stories from DC Public Library for children in grades K-3",
+  "list": [
+    {
+      "label": "City Shapes",
+      "isbns": [
+        "9780316370929",
+        "9780316370929"
+      ]
+    },
+    {
+      "label": "Sidewalk Flowers",
+      "isbns": [
+        "9781554984312",
+        "9781554984312"
+      ]
+    },
+    {
+      "label": "Outside In",
+      "isbns": [
+        "9780358330110",
+        "9781328866820"
+      ]
+    },
+    {
+      "label": "Thanks You, Omu",
+      "isbns": [
+        "9780316431248",
+        "9781549127885"
+      ]
+    },
+    {
+      "label": "Nana in the City",
+      "isbns": [
+        "9780544104433",
+        "9781490669441"
+      ]
+    },
+    {
+      "label": "Extra Yarn",
+      "isbns": [
+        "9780061953385",
+        "9788426140135"
+      ]
+    },
+    {
+      "label": "A Sick Day for Amos McGee",
+      "isbns": [
+        " 9781596434028",
+        " 9781427287229"
+
+      ]
+    },
+    {
+      "label": "In Plain Sight",
+      "isbns": [
+        "9781626722552",
+        "9781626729438"
+
+
+      ]
+    }
+  ]
+}
