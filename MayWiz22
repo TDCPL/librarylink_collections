@@ -1,0 +1,28 @@
+{
+	"label": "Washington Wizards Book of the Month – May 2022",
+	"description": "Check out the May 2022 Washington Wizards and DC Public Library Book of the Month picks celebrating Asian Pacific American Heritage Month K-2, 3-5 and 6-8.",
+	"list": [{
+			"label": "Eyes that Kiss in the Corners",
+			"isbns": [
+				"9780062915627"
+
+			]
+		},
+		{
+			"label": "When Spring Comes to DMZ",
+			"isbns": [
+				"9780874869729"
+
+			]
+		},
+		{
+			"label": "A Wish in the Dark",
+			"isbns": [
+				"9781536204940"
+
+
+
+			]
+		}
+	]
+}
