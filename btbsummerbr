@@ -1,0 +1,67 @@
+{
+  "label": "Beyond the Book-The Lion and the Mouse Summer 2022",
+  "description": "You can find these books related to The Lion and The Mouse at your neighborhood library!.",
+  "list": [
+    {
+      "label": "Unspoken",
+      "isbns": [
+        "9780545399975"
+        
+      ]
+    },
+    {
+      "label": "Sector 7",
+      "isbns": [
+        "9780395746561"
+       
+      ]
+    },
+    {
+      "label": "Journey",
+      "isbns": [
+        "9780763660536"
+ 
+      ]
+    },
+    {
+      "label": "Chalk",
+      "isbns": [
+        "9780761455264"
+
+        ]
+    },
+    {
+      "label": "The Wild Garden",
+      "isbns": [
+        "9783791375120"
+        ]
+    },
+    {
+      "label": "Mirror",
+      "isbns": [
+        "9780763648480"
+        ]
+    },
+    {
+      "label": "Chicken the Kitchen",
+      "isbns": [
+        "9781911373155"
+
+        ]
+    },
+    {
+      "label": "I Walk With Vanessa: A Story about a simple act of kindness",
+      "isbns": [
+        "9781524769550"
+
+        ]
+    },
+    {
+      "label": "Here I Am",
+      "isbns": [
+        "9781404882997"
+
+      ]
+    }
+  ]
+}
